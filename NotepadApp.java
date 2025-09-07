@@ -1,6 +1,3 @@
-//Notepad
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -84,3 +81,4 @@ public class NotepadApp extends JFrame implements ActionListener {
         });
     }
 }
+

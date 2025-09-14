@@ -1,5 +1,5 @@
 # Mini Project – Java Swing Notepad App
-A simple Notepad like text editor built using Java Swing. This lightweight desktop application supports basic file operations (create, open, save, exit) with a scrollable text area.
+A simple Notepad like text editor built using Java Swing. This lightweight desktop application supports basic file operations (create, edit, open, save, exit) with a scrollable text area.
 
 ---
 ## 🚀 Features
